@@ -1,1 +1,4 @@
-Olá Mundo, esse é um teste do Git
+Olá Mundo, esse é um teste do Git.
+
+
+Agora, esse trecho foi adicionado.
